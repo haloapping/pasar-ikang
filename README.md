@@ -10,8 +10,15 @@ Fresh seafood anytime, anywhere.
 
 ## Links
 
-- [Frontend](pasar-ikang.haloaping.com)
-- [Backend](pasar-ikang-api.haloaping.com)
+See it live:
+
+- Frontend Web: [pasar-ikang.haloaping.com](https://pasar-ikang.haloaping.com)
+- Backend API: [pasar-ikang-api.haloaping.com](https://pasar-ikang-api.haloaping.com)
+
+Repositories:
+
+- ...
+- ...
 
 ## Pages
 
